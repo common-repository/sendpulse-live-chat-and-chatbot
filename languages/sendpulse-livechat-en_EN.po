@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sendpulse-livechat\n"
+"POT-Creation-Date: 2023-11-16 17:13+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: SendPulse <sendpulseintegrations@gmail.com>\n"
+"Language-Team: SendPulse\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+
+#: sendpulse-livechat.php:32
+msgid "SendPulse Live Chat"
+msgstr ""
+
+#: sendpulse-livechat.php:47
+msgid "Setting up SendPulse Live Chat Plugin"
+msgstr ""
+
+#: sendpulse-livechat.php:63
+msgid "Connect your live chat created with SendPulse"
+msgstr ""
+
+#: sendpulse-livechat.php:64
+msgid "Instantly chat with visitors on your WordPress-based website."
+msgstr ""
+
+#: sendpulse-livechat.php:69
+#, php-format
+msgid ""
+"Add a new live chat created with SendPulse to your site or <a href=\"%1$s\" "
+"target=\"_blank\">connect the existing one</a>. If you don't have a "
+"SendPulse account, <a href=\"%2$s\">sign up for free</a> to start using the "
+"plugin."
+msgstr ""
+
+#: sendpulse-livechat.php:79
+#, php-format
+msgid ""
+"<a class=\"button button-primary\" href=\"%s\" target=\"_blank\">Connect "
+"live chat</a>"
+msgstr ""
+
+#: sendpulse-livechat.php:99
+msgid "SendPulse LiveChat"
+msgstr ""
+
+#: sendpulse-livechat.php:103
+#, php-format
+msgid ""
+"For more information about live chats, check the <a href=\"%s\" "
+"target=\"_blank\">SendPulse Knowledge Base</a>."
+msgstr ""
+
+#: sendpulse-livechat.php:111
+msgid "Live chat installation code"
+msgstr ""
+
+#: sendpulse-livechat.php:121
+msgid ""
+"To connect your live chat, copy its installation code from your SendPulse "
+"account. Once pasted and saved, it will be added before the closing </body> "
+"tag."
+msgstr ""
+
+#: sendpulse-livechat.php:122
+msgid ""
+"After successful installation, your live chat will appear on your website. "
+"To customize your widget appearance, go to your SendPulse account."
+msgstr ""
